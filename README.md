@@ -13,5 +13,3 @@ I'm learning ruby on rails, python,, HTML/CSS, javascript, AWS and looking forwa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arthur-finamore&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
